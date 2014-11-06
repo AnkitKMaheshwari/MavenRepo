@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="A" duration-ms="19405" started-at="2014-11-06T08:52:02Z" finished-at="2014-11-06T08:52:21Z">
+    <groups>
+    </groups>
+    <test name="FirefoxTest" duration-ms="19405" started-at="2014-11-06T08:52:02Z" finished-at="2014-11-06T08:52:21Z">
+      <class name="com.company.testclasses.GroupTestMaven">
+        <test-method status="PASS" signature="beforMeth()[pri:0, instance:com.company.testclasses.GroupTestMaven@538f1d7e]" name="beforMeth" is-config="true" duration-ms="11796" started-at="2014-11-06T14:22:02Z" finished-at="2014-11-06T14:22:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMeth -->
+        <test-method status="PASS" signature="google()[pri:0, instance:com.company.testclasses.GroupTestMaven@538f1d7e]" name="google" duration-ms="6645" started-at="2014-11-06T14:22:14Z" finished-at="2014-11-06T14:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="afterMeth()[pri:0, instance:com.company.testclasses.GroupTestMaven@538f1d7e]" name="afterMeth" is-config="true" duration-ms="938" started-at="2014-11-06T14:22:20Z" finished-at="2014-11-06T14:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMeth -->
+      </class> <!-- com.company.testclasses.GroupTestMaven -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- A -->
+</testng-results>
